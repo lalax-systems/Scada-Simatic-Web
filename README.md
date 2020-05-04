@@ -6,5 +6,10 @@ PLC ET200S with a web server embedded, serving SCADA front end for monitoring an
 <head></head>
 <body>
 <img src="PLC.jpg" alt="SCADA-plc-simatic-ET200S"> 
-</body>
+<video width="320" height="240" controls>
+  <source src="PLC.mp4" type="video/mp4">  
+Your browser does not support the video tag.
+</video>   
+  
+</body>  
 </tml>
