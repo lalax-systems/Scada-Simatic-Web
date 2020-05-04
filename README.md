@@ -8,7 +8,7 @@ PLC ET200S with a web server embedded, serving SCADA front end for monitoring an
 <img src="PLC.jpg" alt="SCADA-plc-simatic-ET200S"> 
 The PLC  
 <iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
+src="https://www.youtube.com/watch?v=mZATkwuVi9w">
 </iframe> 
   
 </body>  
